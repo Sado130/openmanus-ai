@@ -1,7 +1,5 @@
 # OpenManus AI
 
-## 🚀 About OpenManus
-
 OpenManus AI is our implementation of an AI agent platform designed to make advanced AI capabilities accessible to everyone. We're building a user-friendly service that eliminates technical barriers and provides a seamless experience for creating and managing AI agents.
 
 ## 🌟 Key Features
